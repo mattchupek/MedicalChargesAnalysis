@@ -1,4 +1,4 @@
-# MedicalChargesAnalysis
+# Medical Charges Analysis
 
 ### Project Overview
 
