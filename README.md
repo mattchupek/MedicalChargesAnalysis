@@ -34,9 +34,9 @@ The Medical Charges Analysis provides a comprehensive visualization and analysis
 4. Regional Variations:
 - The southeast region tends to spend at least $1,000 more than any other region, suggesting regional disparities in healthcare expenditure.
 5. BMI and Medical Expenses:
-- BMI correlates with higher medical expenses, with obese individuals having the highest average charges ($15,479.55) compared to overweight, normal weight, and underweight individuals. However, the correlation is moderate, with an R squared value of only 3.9%.
+- BMI correlates with higher medical expenses, with obese individuals having the highest average charges ($15,479.55) compared to overweight, normal weight, and underweight individuals. However, the correlation is not very strong, with a R squared value of only 3.9%.
 6. Age and Medical Expenses:
-- Average charges are correlated with age, increasing with higher age groups. However, the relationship is not very strong, with an R squared value of 8.9%.
+- Average charges are correlated with age, increasing with higher age groups. However, the relationship is moderate, with a R squared value of 8.9%.
 
 ### Recommendations
 1. Targeted Health Programs:
